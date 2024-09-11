@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    color:white
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
