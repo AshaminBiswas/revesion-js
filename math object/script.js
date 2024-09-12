@@ -57,3 +57,5 @@ const width = +prompt("enter the width")
 
 area = +height * +width
 console.log(area);
+
+document.write(`area is ${height * width}`)
