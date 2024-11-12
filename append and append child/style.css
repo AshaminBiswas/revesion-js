@@ -1,0 +1,19 @@
+.card{
+    width: 50px;
+    height:50px;
+    background-color: aquamarine;
+    color: green;
+    text-align: center;
+    font-size: 30px;
+    line-height: 50px;
+    font-weight: bold;
+    
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
