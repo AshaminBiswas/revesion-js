@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.div{
+    width: 100px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.div img{
+    width:90px;
+    object-fit: cover;
+}
+
+.div .para{
+    font-weight: 600;
+    text-align: center;
+}
