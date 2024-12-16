@@ -21,4 +21,3 @@ promise.then((data)=>{
 //finally called when promises is settled
 
 
-//
