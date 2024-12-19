@@ -17,4 +17,7 @@ fetch('https://dummyjson.com/products/add', {
     })
   })
   .then(res => res.json())
-  .then(console.log);
+  .then(console.log)
+  .catch((err)=>{
+    console.log(err);
+  })
